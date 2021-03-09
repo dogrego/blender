@@ -4,7 +4,7 @@
 
 ## EN
 ### Aim of the module
-...
+Learn the basics of 3D modeling
 
 ### Recommended prior knowledge
 - Basic computer skills
@@ -12,14 +12,14 @@
 ### Tools
 - computer with Blender installed
 - three-button scrollmouse
-- drawing tablet (not necessary)
+- numpad on the keyboard can be an advantage
 
 ### Get the latest stable version of the program:
 - [Blender](https://www.blender.org)
 
 ## HU
 ### A modul célja
-...
+A 3D modellezés alapjainak megismerése
 
 ### Ajánlott előismeretek
 - Alapszintű számítógépes előismeretek
@@ -28,7 +28,7 @@
 ### Eszközök
 - számítógép Blender programmal
 - háromgombos görgető egér
-- digitális rajztábla (nem kötelező)
+- előny, ha van numpad a billentyűzeten
 
 ### Szerezd meg a legutolsó stabil verziót a következő programból:
 - [Blender](https://www.blender.org)
