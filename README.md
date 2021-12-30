@@ -1,4 +1,4 @@
-# An introduction to 3D modelling in Blender - Bevezetés a 3D modellezés világába Blenderben
+# An introduction to 3D modeling in Blender - Bevezetés a 3D modellezés világába Blenderben
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![Sponsor: ELTE EFOP-3.4.3-16](https://img.shields.io/badge/Sponsor-ELTE%20EFOP--3.4.3--16-yellow)](http://tet.inf.elte.hu/tetkucko/elmenyinformatika-kurzus/)
 
